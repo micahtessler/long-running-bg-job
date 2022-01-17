@@ -59,3 +59,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "redis-namespace"
 gem "sidekiq", "< 6"
 gem 'activejob-uniqueness'
+gem 'sidekiq-unique-jobs'
