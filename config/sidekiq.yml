@@ -1,0 +1,10 @@
+:concurrency: 5
+:verbose: false
+:queues:
+  - [sentry, 2]
+  - [referee, 1]
+  - [mailer, 1]
+  - [events, 1]
+  - [tasks, 1]
+  - [pexip, 1]
+  - [default, 1]
